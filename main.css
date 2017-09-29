@@ -1,0 +1,34 @@
+.header_top_links {
+    min-height: 3.5em;
+    background: #007bff;
+    color: #fff;
+}
+
+.header_top_container {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.top_logo_container {
+    text-align: center;
+}
+
+.logo_text_big {
+    font-size: 1.5em;
+}
+
+.logo_text_medium {
+    font-size: 1.2em;
+}
+
+.logo_text_small {
+    font-size: 0.9em;
+}
+
+.text_extra_big {
+    font-size: 3em;
+}
+
+body {
+    background: #ebebeb; /* For browsers that do not support gradients */
+}
